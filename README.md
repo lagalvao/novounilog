@@ -1,46 +1,53 @@
-# Getting Started with Create React App
+<h1 align="center">NovoUnilog</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h3>✔ Status do projeto</h3>
+<h4>Projeto em construção... 🧱</h4>
 
-## Available Scripts
+### ✔ Features
 
-In the project directory, you can run:
+- [x] - Página de Login
+- [x] - Página de solicitar acesso
+- [x] - Página de esqueceu senha
+- [x] - Responsividade na aplicação
+- [ ] - Página de Dashboard
 
-### `yarn start`
+<h3>✔ Demostração da aplicação</h3>
+<h1 align="center">
+  <img alt="Joke" src="./src/assets/app.jpeg" />
+</h1>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<h3>✔ Pré-requisitos e como rodar a aplicação</h3>
+<p>Antes de começar você precisa ter instalado em sua maquina o NodeJS (https://nodejs.org/en/) e o Git (https://git-scm.com/).
+Para facilitar o desenvolvimento É interessante possuir um editor de código como o VSCode (https://code.visualstudio.com/).</p>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Rodando a aplicação
 
-### `yarn test`
+#### Abre o seu terminal e rode o comando abaixo
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+$ git clone https://github.com/lagalvao/joke-chuck-norris.git
 
-### `yarn build`
+#### Em seguida entre na pasta do projeto
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+$ cd novounilog
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+#### Depois rode o comando abaixo para instalar as dependĆŖncias
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+$ npm install
 
-### `yarn eject`
+#### Por fim execute a aplicaĆ§Ć£o no modo de desenvolvimento
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+$ npm start
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Rodando o backend
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+#### Abre uma nova guia do seu terminal e rode o comando abaixo
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+$ npm json-server
 
-## Learn More
+### ✔  Tecnologias utilizadas
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+- [React] (https://pt-br.reactjs.org/)
+- [Typescript] (https://www.typescriptlang.org/)
+- [React-Hot-Toast] (https://react-hot-toast.com/)
+- [React-Hook-Form] (https://react-hook-form.com/)
+- [Styled-Components] (https://styled-components.com/)
