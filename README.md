@@ -24,7 +24,7 @@ Para facilitar o desenvolvimento É interessante possuir um editor de código co
 
 #### Abre o seu terminal e rode o comando abaixo
 
-$ git clone https://github.com/lagalvao/joke-chuck-norris.git
+$ git clone https://github.com/lagalvao/novounilog.git
 
 #### Em seguida entre na pasta do projeto
 
